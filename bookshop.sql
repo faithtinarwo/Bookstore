@@ -1,4 +1,6 @@
+CREATE Database Bookstore;
 
+USE Bookstore;
 
 
 
